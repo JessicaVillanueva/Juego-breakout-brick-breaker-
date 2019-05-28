@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1559087132 source:c:\users\pc-006\desktop\trabajos uabcs\programación\brick breake prueba\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<thread>
+
